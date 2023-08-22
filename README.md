@@ -1,4 +1,4 @@
-# Dissertation
+# DISSERTATION CHAPTER 2 : IDENTIFYING PATTERNS OF RELATIONSHIPS BETWEEN ECOSYSTEM SERVICES AND LIVELIHOODS INTENSIFICATION STRATEGIES IN SMALLHOLDER LANDSCAPES: CASE STUDIES IN SAGCOT TANZANIA AND THE UPPER EWASO NG'IRO KENYA
 Taisha Venort' s dissertation work 
 This repository contains data and code use for my dissertation work on Evaluating Sustainable Intensification in Sub-Saharan Africa : Approaches linking ecosystem services to livelihood capitals and agricultural decision-making.
 Codes are titles by case studies. Below are what each code found here calculates:
